@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Oliver Tellez, software developer based on Mexico. I have about 6 years of experience developing software mostly in the backend with Java and Spring. I like to write code and learn new things to apply them.
+I'm Oliver Tellez, software developer based on Mexico. I have about 6 years of experience developing software mostly in the backend with Java and Spring. I've worked with microservices architecture and REST APIs, a little bit in front-end with Angular. I like to write code and learn new things to apply them.
 
 **Things I have experience with**
 
